@@ -1,4 +1,4 @@
-module github.com/gobuffalo/packr/v2
+module github.com/fengsri/packr/v2
 
 go 1.16
 

@@ -18,11 +18,11 @@ import (
 
 	"github.com/karrick/godirwalk"
 
-	"github.com/gobuffalo/packr/v2/file/resolver/encoding/hex"
-	"github.com/gobuffalo/packr/v2/plog"
+	"github.com/fengsri/packr/v2/file/resolver/encoding/hex"
+	"github.com/fengsri/packr/v2/plog"
 	"github.com/rogpeppe/go-internal/modfile"
 
-	"github.com/gobuffalo/packr/v2/jam/parser"
+	"github.com/fengsri/packr/v2/jam/parser"
 	"golang.org/x/sync/errgroup"
 )
 

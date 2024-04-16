@@ -3,9 +3,9 @@ package packr
 import (
 	"fmt"
 
-	"github.com/gobuffalo/packr/v2/file/resolver"
-	"github.com/gobuffalo/packr/v2/jam/parser"
-	"github.com/gobuffalo/packr/v2/plog"
+	"github.com/fengsri/packr/v2/file/resolver"
+	"github.com/fengsri/packr/v2/jam/parser"
+	"github.com/fengsri/packr/v2/plog"
 	"github.com/markbates/safe"
 )
 
